@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BitSkulker, aka Andrei Ionescu.
+- 👀 I’m interested in physics, mathematics, computer science, AI, cognitive science, neuroscience, and psychology.
+- 🌱 I’m currently learning computer science on Harvard's CS50x.
+- 💞️ I’m looking to collaborate on dissecting research papers from arxiv.org.
+- 📫 How to reach me: Twitter - twitter.com/Andreionescu42, my YouTube channel - youtube.com/channel/UCF3mSzlfCJDgu_EQmsMuPNQ, my website - andreionescu.com.
